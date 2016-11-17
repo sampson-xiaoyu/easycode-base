@@ -21,13 +21,14 @@
 				<groupId>org.springframework</groupId>
 				<artifactId>spring-jdbc</artifactId>
 			</dependency>
+			
 			<dependency>
-				<groupId>org.springframework</groupId>
-				<artifactId>spring-webmvc</artifactId>
-			</dependency>
+				<groupId>org.aspectj</groupId>
+				<artifactId>aspectjrt</artifactId>
+			</dependency>			
 			<dependency>
-				<groupId>org.springframework</groupId>
-				<artifactId>spring-jms</artifactId>
+				<groupId>org.aspectj</groupId>
+				<artifactId>aspectjweaver</artifactId>
 			</dependency>
 			
 			<!-- Testing -->
