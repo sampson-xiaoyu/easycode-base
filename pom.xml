@@ -9,7 +9,7 @@
   
   <artifactId>easycode-base</artifactId>
   <packaging>jar</packaging>
-  
+   
   <dependencies>
   
 		<!-- Spring -->
